@@ -1,0 +1,21 @@
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="example.com" resolutions="1x" timestamp="1503430352889">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="36357675" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4216313831" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4177022356" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index"/>
+    <file name="require.js" crc="3951022091" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="14291892698_93987579bf_o.jpg" crc="4185482678" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3834956115" seo="true" mt="1503430267766" redirect="true"/>
+</manifest>
